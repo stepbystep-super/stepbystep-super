@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I am step_by_step
+
+- 🚀 Quant-minded Python developer with a background in risk modelling and financial analytics.
+- 📊 5+ years experience in interest rate risk modelling, option product pricing modelling and credit risk.
+- 💡 FRM ceritified, CQF in progress
 
 <!--
 **stepbystep-super/stepbystep-super** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
