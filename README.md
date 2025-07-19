@@ -1,4 +1,4 @@
-## Hi there 👋 I am step_by_step
+## Hi there 👋 I am last_of_us
 
 - 🚀 Quant-minded Python developer with a background in risk modelling and financial analytics.
 - 📊 5+ years experience in interest rate risk modelling, option product pricing modelling and credit risk.
